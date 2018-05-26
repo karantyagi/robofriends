@@ -1,7 +1,6 @@
 # robofriends
 
-A simple react app demonstrating search functionality.
-
+> A simple react app demonstrating search functionality.
 Search my robofriends from a group of robots. (displayed as a grid)
 
 ## To run the project:
