@@ -2,7 +2,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './Hello.css';
-import './App.css'
+import './containers/App.css'
 
 // class Hello extends Component {
 // //     render() {
