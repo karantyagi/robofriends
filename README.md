@@ -1,7 +1,7 @@
 # robofriends
 
-A simple react app demonstrating search functionality.
-
+> A simple react app demonstrating search functionality.
+<br/>
 Search my robofriends from a group of robots. (displayed as a grid)
 
 ## To run the project:
@@ -13,4 +13,4 @@ Search my robofriends from a group of robots. (displayed as a grid)
 
 ## To do:
 
--[ ] Add crud operations. 
+- [ ] Add CRUD operations. 
