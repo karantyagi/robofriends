@@ -4,6 +4,9 @@
 <br/>
 Search my robofriends from a group of robots. (displayed as a grid)
 
+## Demo
+http://kt-react-robofriends.s3-website-us-east-1.amazonaws.com/
+
 ## To run the project:
 
 1. Clone this repo
