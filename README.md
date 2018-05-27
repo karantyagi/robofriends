@@ -10,9 +10,8 @@ http://kt-react-robofriends.s3-website-us-east-1.amazonaws.com/
 ## To run the project:
 
 1. Clone this repo
-2. Navigate to `'/robofriends'`
-3. Run `npm install`
-4. Run `npm start`
+2. Run `npm install`
+3. Run `npm start`
 
 ## To do:
 
